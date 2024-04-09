@@ -46,13 +46,13 @@
     echo "</pre>";
 
     #Constantes
-    define("url_site", "https://www.google.com.br/&quot;);
+    define("url_site", "https://www.google.com.br/&quot;");
     echo url_site;
     echo'<br>';
     const pais = "Brasil";
     echo pais;
     echo'<br>';
-    define("URL_SITE", "https://www.google.com/&quot;);
+    define("URL_SITE", "https://www.google.com/&quot;");
     echo URL_SITE;
     echo'<br>';
 
